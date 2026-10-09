@@ -1,0 +1,6 @@
+{
+  "name": "MARGAM — Intelligent Traffic & Emergency Response Network",
+  "description": "MARGAM finds traffic-aware ambulance routes, adapts to road blockages and simulates a green signal corridor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
